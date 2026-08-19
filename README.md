@@ -1,4 +1,4 @@
-# SSH-Threat-Hunting Exercise:
+# SSH Log Analysis and Threat Hunting Exercise:
 
 # Overview:
 This project presents a threat-hunting analysis of a public SSH Honeypot Interaction Dataset using Python and pandas.
