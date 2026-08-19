@@ -32,5 +32,6 @@ A Python-based automated threat-hunting script was developed to detect the ident
 Relevant findings were mapped to applicable MITRE ATT&CK techniques, and the mappings were visualized using MITRE ATT&CK Navigator.
 
 # Files:
-- `Threat_Hunting_Report.pdf`
-- `threat_hunting.py`
+- [Automated_Threat_Hunting.py](Automated_Threat_Hunting.py)
+- [Threat_Hunting_Log_Analysis.ipynb](Threat_Hunting_Log_Analysis.ipynb)
+- [Threat_Hunting_Report.pdf](Threat_Hunting_Report.pdf)
